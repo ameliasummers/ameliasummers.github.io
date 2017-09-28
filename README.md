@@ -4,4 +4,4 @@ Designed by Amelia Summers and Mary Lynn Tom
 
 Photography by Amelia Summers
 
-Coded by Mary Lynn Tom
+Code by Mary Lynn Tom
