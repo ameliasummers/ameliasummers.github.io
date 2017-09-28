@@ -10,3 +10,9 @@ h1 {
 .sub-contain-main {
 	width: 75%;	
 }
+
+#feat {
+	border-radius: 25px;
+    border: 2px solid rgb(0, 246, 255);
+    padding: 15px;
+}
