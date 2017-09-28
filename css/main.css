@@ -2,15 +2,17 @@ h1 {
 	font-family: "Great Vibes", cursive;
 }
 
+contain {
+	display: flex;
+}
+
 .sub-contain {
 	width: 25%;
 	padding: 15px;
-	display: flex;
 }
 
 .sub-contain-main {
 	width: 75%;
-	display: flex;
 }
 
 #feat {
