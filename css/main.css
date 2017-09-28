@@ -3,6 +3,10 @@
 	display: flex;
 }
 
+h1 {
+	font-family: "Great Vibes", cursive;
+}
+
 .sub-contain {
 	width: 25%;
 	padding: 15px;
