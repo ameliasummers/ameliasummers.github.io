@@ -1,5 +1,6 @@
 * {
 	border: 1px red !important;
+	display: flex;
 }
 
 .sub-contain {
