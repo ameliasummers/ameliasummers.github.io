@@ -6,6 +6,10 @@ h1 {
 	display: flex;
 }
 
+.logo {
+	float: right;
+}
+
 .need-help {
 	float: right;
 }
