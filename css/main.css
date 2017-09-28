@@ -5,6 +5,7 @@ h1 {
 .sub-contain {
 	width: 25%;
 	padding: 15px;
+	display: flex;
 }
 
 .sub-contain-main {
