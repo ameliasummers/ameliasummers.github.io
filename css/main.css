@@ -9,7 +9,8 @@ h1 {
 }
 
 .sub-contain-main {
-	width: 75%;	
+	width: 75%;
+	display: flex;
 }
 
 #feat {
