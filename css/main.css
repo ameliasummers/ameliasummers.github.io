@@ -6,6 +6,10 @@ h1 {
 	display: flex;
 }
 
+.need-help {
+	float: right;
+}
+
 .sub-contain {
 	width: 20%;
 	padding: 15px;
