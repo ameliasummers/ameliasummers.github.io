@@ -1,3 +1,7 @@
+* {
+	border: 1px red !important;
+}
+
 .sub-contain {
 	width: 25%;
 }
