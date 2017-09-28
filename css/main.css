@@ -2,7 +2,7 @@ h1 {
 	font-family: "Great Vibes", cursive;
 }
 
-contain {
+.contain {
 	display: flex;
 }
 
