@@ -4,6 +4,11 @@ h1 {
 	padding: 20px;
 }
 
+ul {
+	list-style: none;
+	display: flex;
+}
+
 .center {
 	text-align: center;
 	margin: auto;
