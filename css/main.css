@@ -32,6 +32,13 @@ ul {
 	float: right;
 }
 
+.nav-page {
+	width: 232px;
+	height: 18px;
+	border: 2px;
+	padding: 15px 32px 15px 32px;
+}
+
 .need-help {
 	padding-top: 75px;
 	float: right;
