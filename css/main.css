@@ -44,6 +44,11 @@ h1 {
 	color: rgb(159, 70, 255);
 }
 
+.nav-center {
+	border-left: none;
+	border-right: none;
+}
+
 .nav-list {
 	list-style: none;
 	display: flex;
