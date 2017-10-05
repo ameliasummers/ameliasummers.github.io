@@ -1,33 +1,11 @@
-button {
-	background-color: rgba(0, 158, 173, 0.7);
-	border: 2px solid rgb(76, 208, 232);
-	
-	color: black;
-	font-family: 'Bellefair', serif;
-	font-size: 16px;
-	font-weight: 600;
-	text-decoration: none;
-	
-	width: 300px;
-	padding: 15px 32px;
-}
-
 button:hover {
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0, .2);
-	/* TODO: Make image responsive */
-	background: url("https://wallpaperscraft.com/image/smoke_light_shadow_background_dark_15396_3840x2400.jpg");
-	color: 159, 70, 255;
+
 }
 
 h1 {
 	font-family: "Great Vibes", cursive;
 	font-size: 500%;
 	padding: 20px;
-}
-
-ul {
-	list-style: none;
-	display: flex;
 }
 
 .center {
@@ -49,11 +27,30 @@ ul {
 	float: right;
 }
 
-.nav-page {
-	width: 232px;
-	height: 18px;
-	border: 2px solid black;
-	padding: 15px 32px 15px 32px;
+.nav {
+	background-color: rgba(0, 158, 173, 0.7);
+	border: 2px solid rgb(76, 208, 232);
+	
+	color: black;
+	font-family: 'Bellefair', serif;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: none;
+	
+	width: 300px;
+	padding: 15px 32px;
+}
+
+.nav:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0, .2);
+	/* TODO: Make image responsive */
+	background: url("https://wallpaperscraft.com/image/smoke_light_shadow_background_dark_15396_3840x2400.jpg");
+	color: 159, 70, 255;
+}
+
+.nav-list {
+	list-style: none;
+	display: flex;
 }
 
 .need-help {
