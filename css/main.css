@@ -11,7 +11,6 @@ li {
 ul {
 	list-style: none;
 	display: flex;
-	margin: 15px 32px 15px 32px;
 }
 
 .center {
@@ -37,6 +36,7 @@ ul {
 	width: 232px;
 	height: 18px;
 	border: 2px solid black;
+	padding: 15px 32px 15px 32px;
 }
 
 .need-help {
