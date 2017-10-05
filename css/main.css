@@ -4,6 +4,10 @@ h1 {
 	padding: 20px;
 }
 
+li {
+	padding-right: 30px;
+}
+
 ul {
 	list-style: none;
 	display: flex;
