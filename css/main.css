@@ -18,8 +18,12 @@ nav {
 }
 
 .feat-img {
-	padding-right: 10px;
+	margin-right: 10px;
 	max-width: 100%;
+}
+
+.feat-img-last {
+	margin: 0;
 }
 
 .inner-feat {
