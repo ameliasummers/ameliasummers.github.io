@@ -59,6 +59,10 @@ nav {
 	padding-left: 0;
 }
 
+.nav-page {
+	width: 25%;
+}
+
 .need-help {
 	padding-top: 75px;
 	float: right;
