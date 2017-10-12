@@ -17,6 +17,15 @@ nav {
 	display: flex;
 }
 
+.feat-img {
+	padding-right: 10px;
+	max-width: 100%;
+}
+
+.inner-feat {
+	display: flex;
+}
+
 .large-img {
 	margin-top: 20px;
 	max-width: 100%;
