@@ -81,6 +81,10 @@ nav {
 	width: 80%;
 }
 
+#about {
+	text-align: justify;
+}
+
 #feat {
 	border-radius: 25px;
 	border: 2px solid rgb(0, 246, 255);
