@@ -5,6 +5,14 @@ h1 {
 	padding: 20px;
 }
 
+hr {
+	border: 0;
+	height: 2px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: linear-gradient(right, rgba(65, 244, 226, 0.5), rgb(66, 212, 244), rgba(65, 244, 226, 0.5));
+}
+
 nav {
 	max-width: 100%;
 }
