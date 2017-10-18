@@ -10,7 +10,7 @@ hr {
 	height: 2px;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	background: linear-gradient(to right, rgba(65, 244, 226, 0.5), rgb(66, 212, 244), rgba(65, 244, 226, 0.5));
+	background: linear-gradient(to right, rgba(65, 244, 226, 0.1), rgb(66, 212, 244), rgba(65, 244, 226, 0.1));
 }
 
 nav {
