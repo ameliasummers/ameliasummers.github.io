@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "SocialCircles";
-	src: url("fonts/SocialCircles.otf") format("opentype");
-	src: url("fonts/SocialCircles.eot"); /* IE9 Compat Modes */
-		url("fonts/SocialCircles.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-		url("fonts/SocialCircles.woff") format("woff"), /* Modern Browsers */
-		url("fonts/SocialCircles.ttf")  format("truetype"), /* Safari, Android, iOS */
-		url("fonts/SocialCircles.svg#SocialCircles") format("svg"); /* Legacy iOS */
+	src: url("../fonts/SocialCircles.otf") format("opentype");
+	src: url("../fonts/SocialCircles.eot"); /* IE9 Compat Modes */
+		url("../fonts/SocialCircles.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("../fonts/SocialCircles.woff") format("woff"), /* Modern Browsers */
+		url("../fonts/SocialCircles.ttf")  format("truetype"), /* Safari, Android, iOS */
+		url("../fonts/SocialCircles.svg#SocialCircles") format("svg"); /* Legacy iOS */
 }
 
 h1 {
