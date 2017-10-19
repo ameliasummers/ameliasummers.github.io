@@ -1,3 +1,12 @@
+@font-face {
+	font-family: "SocialCircles";
+	src: url("SocialCircles.eot"); /* IE9 Compat Modes */
+	src: url("SocialCircles.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("SocialCircles.woff") format("woff"), /* Modern Browsers */
+		url("SocialCircles.ttf")  format("truetype"), /* Safari, Android, iOS */
+		url("SocialCircles.svg#svgSocialCircles") format("svg"); /* Legacy iOS */
+}
+
 h1 {
 	font-family: "Great Vibes", cursive;
 	color: #c0c0c0;
@@ -39,6 +48,10 @@ nav {
 .contact {
 	text-align: center;
 	list-style: none;
+}
+
+ul.contact {
+	font-family: "SocialCircles", serif;
 }
 
 .contain {
