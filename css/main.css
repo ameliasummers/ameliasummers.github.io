@@ -10,6 +10,7 @@ h3 {
 	font-size: 40px;
 	font-weight: 400;
 	margin: 0;
+	text-align: right;
 }
 
 hr {
@@ -36,7 +37,7 @@ nav {
 }
 
 .contact {
-	text-align: right;
+	text-align: center;
 }
 
 .contain {
