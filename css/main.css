@@ -9,6 +9,7 @@ h3 {
 	font-family: "Itim", cursive;
 	font-size: 40px;
 	font-weight: 400;
+	margin: 0;
 }
 
 hr {
@@ -32,6 +33,10 @@ nav {
 .center {
 	text-align: center;
 	margin: auto;
+}
+
+.contact {
+	text-align: right;
 }
 
 .contain {
