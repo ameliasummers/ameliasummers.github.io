@@ -5,6 +5,12 @@ h1 {
 	padding: 20px;
 }
 
+h3 {
+	font-family: "Itim", cursive;
+	font-size: 40px;
+	font-weight: 400;
+}
+
 hr {
 	border: 0;
 	height: 2px;
