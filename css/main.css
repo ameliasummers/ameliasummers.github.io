@@ -117,7 +117,7 @@ nav {
 
 .social {
 	border-radius: 50px;
-	border: 2px solid #daa520;
+	border: none;
 	max-width: 50px;
 	height: auto;
 }
