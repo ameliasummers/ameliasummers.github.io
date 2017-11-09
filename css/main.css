@@ -115,6 +115,11 @@ nav {
 	float: right;
 }
 
+.social {
+	max-width: 25px;
+	height: auto;
+}
+
 .sub-contain {
 	width: 20%;
 	padding: 15px;
