@@ -120,6 +120,11 @@ nav {
 	height: auto;
 }
 
+.social-flex {
+	margin: center;
+	display: flex;
+}
+
 .sub-contain {
 	width: 20%;
 	padding: 15px;
