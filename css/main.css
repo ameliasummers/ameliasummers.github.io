@@ -42,6 +42,7 @@ nav {
 
 .contact {
 	list-style: none;
+	display: flex;
 }
 
 .contain {
