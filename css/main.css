@@ -33,8 +33,13 @@ nav {
 	margin-bottom: 0;
 	font-size: 300%;
 	font-weight: 900;
+	color: #00B7EB;
 }
 
+.amelia {
+	color: #00FFFF;
+}
+	
 .center {
 	text-align: center;
 	margin: auto;
