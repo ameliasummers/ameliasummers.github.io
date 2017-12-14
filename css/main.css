@@ -33,7 +33,6 @@ nav {
 	margin-bottom: 0;
 	font-size: 300%;
 	font-weight: 900;
-	color: #00B7EB;
 }
 
 .amelia {
@@ -148,6 +147,7 @@ nav {
 #about {
 	text-align: justify;
 	font-family: "Josefin Slab", serif;
+	color: #00B7EB;
 }
 
 #feat {
